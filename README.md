@@ -4,8 +4,6 @@ UCSD Programming Pre-work Portfolio
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - My curiosity to code and learn more about what makes technology is what is today drove me to take the bootcamp course which led me to build this website
 - I built this website because it was fun, interesting, challenging, and a good resource to refer back to
 - This website provides an interactive, educational experience for those beginning to code
